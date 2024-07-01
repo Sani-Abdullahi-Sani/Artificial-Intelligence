@@ -1,0 +1,3 @@
+Q-Learning appears to converges a bit faster and achieves a higher average return, likely because it updates Q-values based on the maximum possible future reward. 
+This allows it to learn more about the value of different states over time, leading to better decision-making. In contrast, SARSA, being an on-policy method, updates 
+Q-values based on the actual actions taken, making it more cautious and better suited for handling stochastic environments.
