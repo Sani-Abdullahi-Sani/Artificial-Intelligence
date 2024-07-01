@@ -1,0 +1,10 @@
+Hamlet: 74%
+King Lear: 17%
+The Tempest: 3%
+Macbeth: 3%
+The Merchant of Venice: 1% 
+Twelfth Night: 1%
+Midsummer Night’s Dream: 1%
+Romeo and Juliet: 0%       
+Othello: 0%
+Much Ado About Nothing: 0%
